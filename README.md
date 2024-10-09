@@ -19,3 +19,9 @@ This project is a simple animation of two Pac-Man characters moving back and for
 1. Clone this repository to your local machine using:
    ```bash
    git clone https://github.com/your-username/pacman-animation.git
+
+
+### Instructions for Use:
+- Replace `your-username` in the installation section with your actual GitHub username.
+- Make sure to update the project name in the URL and the title of the README if it differs.
+- Feel free to modify any sections to better fit your project's needs!
